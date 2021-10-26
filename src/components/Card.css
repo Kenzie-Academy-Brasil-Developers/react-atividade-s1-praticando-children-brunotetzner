@@ -1,0 +1,25 @@
+div.CenteredCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1#ChildOnReact--title {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+.ChildOnReact--menuInicial {
+  width: 40vw;
+  height: 30vh;
+  background-image: linear-gradient(to left, blue, rgb(24, 9, 75));
+  border: 0.5px solid cyan;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px 10px 10px 10px;
+
+  box-shadow: 1px 1px 16px 6px #fffa40;
+}
+
+li {
+  list-style-type: none;
+}
